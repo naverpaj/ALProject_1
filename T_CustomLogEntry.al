@@ -51,6 +51,7 @@ table 50102 "Custom Log Entry"
         //Change 1 from git bash
         //Change 2 from git bash
         //Change 3 from VS Code 1
+        //Change 3 from git GUI
     end;
 
 
