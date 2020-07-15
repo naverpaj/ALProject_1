@@ -42,7 +42,7 @@ table 50102 "Custom Log Entry"
 
     trigger OnDelete()
     begin
-        message('Trying to delete');
+        //message('Trying to delete');
     end;
 
     trigger OnRename()
