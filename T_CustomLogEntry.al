@@ -47,7 +47,7 @@ table 50102 "Custom Log Entry"
 
     trigger OnRename()
     begin
-        message('Rename records')
+        //message('Rename records')
     end;
 
 
