@@ -48,8 +48,9 @@ table 50102 "Custom Log Entry"
     trigger OnRename()
     begin
         //message('Rename records')
-        //Change 1
-        //Change 2 
+        //Change 1 from git bash
+        //Change 2 from git bash
+        //Change 3 from VS Code
     end;
 
 
