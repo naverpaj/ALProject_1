@@ -50,7 +50,7 @@ table 50102 "Custom Log Entry"
         //message('Rename records')
         //Change 1 from git bash
         //Change 2 from git bash
-        //Change 3 from VS Code
+        //Change 3 from VS Code 1
     end;
 
 
