@@ -1,0 +1,26 @@
+{
+  "id": "d7f765bf-fd40-45ab-a54a-5af7e19dbb8a",
+  "name": "GITTEST",
+  "publisher": "Anitha",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.29530.0",
+  "application": "14.0.29530.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://GITTEST.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
